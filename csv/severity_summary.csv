@@ -1,0 +1,5 @@
+incident_severity,claim_count,avg_severity_cost,total_claims_cost,total_premium,claims_to_premium_ratio
+Major Damage,276,64067.17,17682540,346045.13,51.099
+Total Loss,280,62081.21,17382740,353331.1,49.197
+Minor Damage,354,48642.68,17219510,446362.01,38.577
+Trivial Damage,90,5301.67,477150,110667.91,4.312

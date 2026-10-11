@@ -1,0 +1,4 @@
+policy_state,claim_count,avg_severity,total_claims_cost,total_premium,claims_to_premium_ratio
+IN,310,53006.97,16432160,389172.28999999986,42.223
+IL,338,52844.17,17861330,423559.8000000001,42.17
+OH,352,52467.19,18468450,443674.06,41.626
